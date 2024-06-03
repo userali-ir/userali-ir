@@ -1,4 +1,4 @@
-![logo](https://github.com/userali-ir/userali-ir/blob/main/Z8Frhsc.png")
+![logo](https://github.com/userali-ir/userali-ir/blob/main/Z8Frhsc.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=userali-ir&label=Profile%20views&color=0e75b6&style=flat" alt="userali-ir" /> </p>
 
