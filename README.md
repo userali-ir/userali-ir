@@ -1,19 +1,21 @@
-![logo](https://github.com/userali-ir/userali-ir/blob/main/Z8Frhsc.png)
+![Banner2](https://github.com/userali-ir/userali-ir/blob/main/Z8Frhsc.png)
 
-<div id="header" align="center">
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=480&lines=Developer+|+Graphist" alt="Typing SVG" /></h1>
 
-<p>
-</br>
-<a href="mailto:userali@mail.ir?subject=✉&body=سلام"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/userali.ir"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+# Languages & IDE
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-brown?logo=javascript&logoColor=white)
+![Css](https://img.shields.io/badge/Css-yellow?logo=Css&logoColor=white)
+![Php](https://img.shields.io/badge/Php-blue?logo=Php&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-blue?logo=Figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
 
-</div>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)
+-
+# Contact to Me
+[![Email](https://img.shields.io/badge/Email-userali@mail.ir-blue?logo=Gmail&logoColor=EA4335)](mailto:userali@mail.ir)
+[![Telegram](https://img.shields.io/badge/Telegram-userali_i-blue?logo=Telegram&logoColor=EA4335)](https://t.me/Userali_i)
+[![Discord](https://img.shields.io/badge/Discord-userali-blue?logo=Discord&logoColor=5865F2)](https://discord.com/users/1007725490171289691)
+[![Instagram](https://img.shields.io/badge/Instagram-userali.ir-blue?logo=instagram)](https://instagram.com/userali.ir)
+[![x](https://img.shields.io/badge/Twitter-userali.ir-blue?logo=x)](https://twitter.com/userali_ir)
+-
